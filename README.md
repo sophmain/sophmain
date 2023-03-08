@@ -1,4 +1,4 @@
-# Hi I'm Sophie, a Data Analyst turned Software Developer 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=F7F7F7&repeat=false&width=435&lines=Hi+I'm+Sophie%2C+a+Data+Analyst+turned+Software+Developer)](https://git.io/typing-svg) 
 
 I'm a Notre Dame grad with a degree in Mechanical Engineering, and experience working in data analysis, FP&A, and TEFL. Throughout my career, I have worked on projects spanning multiple industries, including aviation, mortgage, and education. My diverse range of experiences has given me a unique perspective and I am excited to continue growing in the tech industry by building positive applications that empower end-users and simplify complex processes. 
 
