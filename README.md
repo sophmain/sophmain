@@ -32,5 +32,5 @@ When I'm not coding, you can find me here:
 
 Thank you for visiting my profile! I'm always open to interesting ideas or new learning opportunities!
 
-[![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophmain)](https://github.com/sophmain/github-readme-stats%hide=stars, contribs)
+[![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophmain)](https://github.com/sophmain/github-readme-stats&hide=stars, contribs)
 
