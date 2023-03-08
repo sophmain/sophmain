@@ -1,4 +1,4 @@
-# Hi I'm Sophie, a Data Analyst turned Software Developer 👋
+# Hi I'm Sophie, a Data Analyst turned Software Developer 
 
 I'm a Notre Dame grad with a degree in Mechanical Engineering, and experience working in data analysis, FP&A, and TEFL. Throughout my career, I have worked on projects spanning multiple industries, including aviation, mortgage, and education. My diverse range of experiences has given me a unique perspective and I am excited to continue growing in the tech industry by building positive applications that empower end-users and simplify complex processes. 
 
@@ -17,7 +17,7 @@ Here are some of the technologies I have been working with:
 
 ## 🎉 Hobbies & Interests
 
-Here are some of the things I enjoy outside of coding:
+When I'm not coding, you can find me here:
 
 - Tennis 🎾
 - Photography 📸
@@ -25,7 +25,7 @@ Here are some of the things I enjoy outside of coding:
 - Skiing ⛷
 - Traveling 🌍
 
-## 💬 Get in touch
+## 💬 Let's connect
 
 - LinkedIn: https://www.linkedin.com/in/sophie-main-154961108/
 - Wellfound / AngelList: https://angel.co/u/sophie-main
