@@ -13,7 +13,7 @@ Here are some of the technologies I have been working with:
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 ### Backend:
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red)](https://www.sqlalchemy.org/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&red)](https://www.sqlalchemy.org/)
 [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
 [![sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)](https://sequelize.org/)
 [![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
