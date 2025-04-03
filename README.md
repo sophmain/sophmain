@@ -37,7 +37,6 @@ When I'm not coding, you can find me here:
 ## 💬 Let's connect
 
 - LinkedIn: https://www.linkedin.com/in/sophie-main-154961108/
-- Wellfound / AngelList: https://angel.co/u/sophie-main
 
 Thank you for visiting my profile! I'm always open to interesting ideas or new learning opportunities!
 
